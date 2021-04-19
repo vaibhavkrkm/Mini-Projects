@@ -1,0 +1,17 @@
+c color codes:
+
+0 : Black,
+1: Blue,
+3: Green,
+4: Red,
+5: Purple,
+6: Shady Yellow,
+7: Ice,
+8: Grey,
+9: Light Blue,
+10: Green 2,
+11: Light Blue 2,
+12: Pink 1,
+13: Pink 2,
+14: Yellow,
+15: White

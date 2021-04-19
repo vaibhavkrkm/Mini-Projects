@@ -1,0 +1,87 @@
+/*li, div{
+	color: green;
+}*/
+
+body{
+	background-color: coral;
+}
+
+.nav{
+	background-color: purple;
+	margin-top: 25px;
+}
+
+.items{
+	background-color: green;
+	list-style-type: none;
+	margin: auto;
+}
+
+.item{
+	background-color: yellow;
+	display: inline;
+	padding-top: 10px;
+}
+
+.class{
+	border-style: solid;
+	border-width: 2px;
+	border-color: red;
+	border-radius: 10px;
+	margin: auto;
+	height: 50%;
+	width: 50%;
+	outline-style: dashed;
+	color: green;
+	text-align: left;
+	word-spacing: 2px;
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 20px;
+}
+
+a{
+	text-decoration: none;
+	text-transform: capitalize;
+	letter-spacing: 2px;
+}
+
+a:hover{
+	font-size: 15px;
+	background-color: green;
+	color: black;
+}
+
+a:active{
+	font-size: 15px;
+}
+
+/*#box{
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+}
+*/
+
+.container{
+	width: 100%;
+	height: 50px;
+	padding: 5px;
+	border: 3px solid black;
+	box-sizing: border-box;
+}
+
+.first{
+	background: blue;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	float: right;
+}
+
+.second{
+	background: yellow;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+}

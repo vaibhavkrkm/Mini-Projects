@@ -1,0 +1,9 @@
+/*
+	strlen() -> returns the length of a string
+	strrev() -> returns the reversed string
+	strlwr() -> lowers the string
+	strupr() -> uppers the string
+	strcpy() -> copies a string from one to a variable, ex. : strcpy(s, "BHOPAL")
+	strcmp() -> returns the ASCII diffrence of the first mismatch character in the string, ex. : strcmp("AMAR", "AMIT")
+	strcat() -> concatenates the first string with another string, ex. : strcat(s, "BHOPAL")
+*/

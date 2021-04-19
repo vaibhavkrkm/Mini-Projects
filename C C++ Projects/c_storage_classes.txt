@@ -1,0 +1,6 @@
+storage classes in c:
+
+1. Automatic (auto)
+2. Register (register)
+3. Static (static)
+4. External (extern)
